@@ -14,4 +14,4 @@ I’m currently pursuing my Bachelor’s in Computer Science and continuing to b
 
 ---
 
-📄 Resume: 95c95336d09c1d00dcf7a88714aef619c80c8750
+📄 Resume: Ashay_R resume.pdf
