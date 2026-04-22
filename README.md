@@ -29,7 +29,7 @@ Resume: [View Resume](./Ashay_R%20resume.pdf)
     - [Nashville Housing Data Cleaning](#nashville-housing-data-cleaning)
   - **R**
   - *Power BI**
-  - - *PostgreSQL**
+  - *PostgreSQL**
 
 - [Education](#education)
 
