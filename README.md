@@ -24,14 +24,12 @@ Resume: [View Resume](./Ashay_R%20resume.pdf)
   - **Python**
     - [Analyzing the Factors Contributing to the Success of a Movie](#analyzing-the-factors-contributing-to-the-success-of-a-movie)
     - [Tech Store Sales Analysis](#tech-store-sales-analysis)
-  - **SQL**
+  - **SQL / Tableau**
     - [COVID-19 Data Exploration](#covid-19-data-exploration)
     - [Nashville Housing Data Cleaning](#nashville-housing-data-cleaning)
   - **R**
-    - [Legendary Pokémon Analysis](#legendary-pokémon-analysis-study-project)
-  - **Excel / Tableau / Power BI**
-    - [Tableau Dashboard](#tableau-dashboard)
-    - [Power BI Project](#power-bi-project)
+  - *Power BI**
+  - - *PostgreSQL**
 
 - [Education](#education)
 
