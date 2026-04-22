@@ -15,3 +15,5 @@ I’m currently pursuing my Bachelor’s in Computer Science and continuing to b
 ---
 
 Resume: [View Resume](./Ashay_R%20resume.pdf)
+
+Table of Content
