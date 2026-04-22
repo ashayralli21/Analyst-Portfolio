@@ -18,7 +18,7 @@ Resume: [View Resume](./Ashay_R%20resume.pdf)
 
 Table of Contents
 
-About
+[About](https://github.com/ashayralli21/Analyst-Portfolio/blob/main/README.md#about)
 
 Portfolio Projects
 
