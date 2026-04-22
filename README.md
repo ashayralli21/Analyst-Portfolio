@@ -28,8 +28,8 @@ Resume: [View Resume](./Ashay_R%20resume.pdf)
     - [COVID-19 Data Exploration](#covid-19-data-exploration)
     - [Nashville Housing Data Cleaning](#nashville-housing-data-cleaning)
   - **R**
-  - *Power BI**
-  - *PostgreSQL**
+  - *Power BI*
+  - *PostgreSQL*
 
 - [Education](#education)
 
