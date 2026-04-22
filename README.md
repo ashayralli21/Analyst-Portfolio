@@ -16,4 +16,27 @@ I’m currently pursuing my Bachelor’s in Computer Science and continuing to b
 
 Resume: [View Resume](./Ashay_R%20resume.pdf)
 
-Table of Content
+Table of Contents
+
+About
+
+Portfolio Projects
+
+Python
+Analyzing the Factors Contributing to the Success of a Movie
+Tech Store Sales Analysis
+SQL
+Covid 19 Data Exploration
+Nashville Housing Data Cleaning
+R
+Legendary Pokémon Analysis (Study Project)
+Excel / Google Sheets
+Tableau---> go to Tableau..
+Power BI
+Education
+
+Certificates
+
+Contact
+
+Portfolio Projects
