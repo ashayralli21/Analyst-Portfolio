@@ -16,25 +16,72 @@ I’m currently pursuing my Bachelor’s in Computer Science and continuing to b
 
 Resume: [View Resume](./Ashay_R%20resume.pdf)
 
-Table of Contents
+## 📑 Table of Contents
 
-[About](https://github.com/ashayralli21/Analyst-Portfolio/blob/main/README.md#about)
+- [About](#about)
 
-Portfolio Projects
+- [Portfolio Projects](#portfolio-projects)
+  - **Python**
+    - [Analyzing the Factors Contributing to the Success of a Movie](#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+    - [Tech Store Sales Analysis](#tech-store-sales-analysis)
+  - **SQL**
+    - [COVID-19 Data Exploration](#covid-19-data-exploration)
+    - [Nashville Housing Data Cleaning](#nashville-housing-data-cleaning)
+  - **R**
+    - [Legendary Pokémon Analysis](#legendary-pokémon-analysis-study-project)
+  - **Excel / Tableau / Power BI**
+    - [Tableau Dashboard](#tableau-dashboard)
+    - [Power BI Project](#power-bi-project)
 
-Python
-Analyzing the Factors Contributing to the Success of a Movie
-Tech Store Sales Analysis
-SQL
-Covid 19 Data Exploration
-Nashville Housing Data Cleaning
-R
-Legendary Pokémon Analysis (Study Project)
-Excel / Google Sheets
-Tableau---> go to Tableau..
-Power BI
-Education
+- [Education](#education)
 
+- [Certifications](#certifications)
+
+- [Contact](#contact)
+
+---
+
+## 🚀 Portfolio Projects
+
+### 🐍 Python
+
+#### Analyzing the Factors Contributing to the Success of a Movie
+
+#### Tech Store Sales Analysis
+
+---
+
+### 🗄️ SQL
+
+#### COVID-19 Data Exploration
+
+#### Nashville Housing Data Cleaning
+
+---
+
+### 📊 R
+
+#### Legendary Pokémon Analysis (Study Project)
+
+---
+
+### 📈 Excel / Tableau / Power BI
+
+#### Tableau Dashboard
+
+#### Power BI Project
+
+---
+
+## 🎓 Education
+
+---
+
+## 📜 Certifications
+
+---
+
+## 📬 Contact
 Certificates
 
 Contact
